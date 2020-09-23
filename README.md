@@ -7,7 +7,7 @@
 Está é uma análise exploratória feita na linguagem R, aplicando conceito de estastísticas elementares para descrever os dados de casos de óbitos no estado de Góiás com data corte
 em 24/08/2020, contém gráficos como histogramas, Boxplot e Scartter plot, usando alguns pacotes estastísticos e de visualização de gráficos.
 
-<img src="https://drive.google.com/file/d/1ruHo0MEsZS5S2xFAH1-2nE9r0Lb1Jdhy/view?usp=sharing" alt="Covid-19">
+<img src="https://www.imagemhost.com.br/images/2020/09/23/minitatura-video.png" alt="minitatura-video.png" border="0" />
 
 <h3>Técnicas utilizadas</h3>
 <ul>
