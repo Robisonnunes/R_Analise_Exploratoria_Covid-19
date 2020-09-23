@@ -15,7 +15,7 @@ em 24/08/2020, contém gráficos como histogramas, Boxplot e Scartter plot, usan
 <li>Comparação e agregação de variaveis</li>
 </lu>
 
-<blockquote>Link do vídeo no linkedin</blockquote>
+<p>Link do vídeo no linkedin<p>
 
 https://www.linkedin.com/feed/update/urn:li:activity:6704856802888040448/
 
