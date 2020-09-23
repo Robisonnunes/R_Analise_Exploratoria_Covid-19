@@ -1,5 +1,7 @@
 <h1> R </h1>
 
+<img src="https://www.imagemhost.com.br/images/2020/09/23/R_logo.svg.png" alt="R_logo.svg.png" border="0" />
+
 <h2>Análise Exploratória - Óbitos Covid-19 - GO</h2>
 
 <h3>About</h3>
