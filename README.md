@@ -12,7 +12,7 @@ em 24/08/2020, contém gráficos como histogramas, Boxplot e Scartter plot, usan
 <h3>Técnicas utilizadas</h3>
 <ul>
 <li>Análise do tipo de variável gategórica ou númerica</li>
-<li>Análise das estastíticas básicas (Média, Mediana, Quartis, Desvio-Padrão)</li>
+<li>Análise das estatísticas básicas (Média, Mediana, Quartis, Desvio-Padrão)</li>
 <li>Identificação e eliminação de outliers com visualização de boxplots e histogramas</li>
 <li>Comparação e agregação de variáveis</li>
 </ul>
