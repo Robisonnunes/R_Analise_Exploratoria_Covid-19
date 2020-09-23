@@ -21,6 +21,7 @@ https://www.linkedin.com/feed/update/urn:li:activity:6704856802888040448/
 
 Fonte: SECRETARIA DE ESTADO DA SAÚDE - GOIÁS
 https://lnkd.in/d3KSgZN
+
 Data do estudo 24/08/2020
 
 <b>Obs:. Estudo com fim exploratório e de aprimoramento técnico, sem qualquer juízo de valor quanto as políticas de enfrentamento ao Covid-19.</b>
